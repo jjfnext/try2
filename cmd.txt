@@ -1,0 +1,8 @@
+full workflow:
+create dir
+git init
+git add file
+git commit -m "msg"
+git remote add origin https://github.com/jjfnext/try2.git
+git push -u origin master
+
